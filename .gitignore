@@ -1,0 +1,21 @@
+# Environment variables & secrets (DO NOT COMMIT)
+.env
+*.env
+**/.env
+.env.*
+
+# Python virtual environment & cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local ignore
+hello_world
+.DS_Store
+.vscode/
+.idea/
+*.log
