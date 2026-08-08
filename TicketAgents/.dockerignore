@@ -1,0 +1,6 @@
+# TicketAgents/.dockerignore
+.env
+__pycache__/
+*.pyc
+venv/
+.git

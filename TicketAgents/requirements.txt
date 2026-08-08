@@ -1,1 +1,13 @@
-# TicketAgents requirements
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+openai
+google-generativeai
+psycopg2-binary
+sqlmodel
+apscheduler
+requests
+opencv-python-headless
+python-dotenv
+chromadb
